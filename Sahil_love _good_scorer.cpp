@@ -31,5 +31,5 @@ int main()
         cout<<"C1"<<endl;
         else
         cout<<"C2"<<endl;
-    }
+    } //return 0;
 }
